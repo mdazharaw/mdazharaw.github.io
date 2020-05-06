@@ -757,46 +757,6 @@ a {
   background-color: transparent !important;
   box-shadow: none !important;
 }
-.cid-rYaQMl9p6W {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: #f3f4f7;
-}
-.cid-rYaQMl9p6W .badge {
-  display: inline-block;
-  border-radius: 10rem;
-  padding: 8px 14px 6px 14px;
-  color: #3c71d3;
-  background-color: rgba(60, 113, 211, 0.15);
-  margin-bottom: 26px;
-}
-.cid-rYaQMl9p6W .badge.display-4 {
-  font-size: 11px;
-  line-height: 1.81;
-  letter-spacing: 0.5px;
-}
-.cid-rYaQMl9p6W .mbr-section-subtitle {
-  color: #999999;
-}
-.cid-rYaQMl9p6W img {
-  width: 120px;
-  margin: auto;
-}
-.cid-rYaQMl9p6W .card {
-  transition: all 200ms ease-in-out;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.8;
-  margin-bottom: 1rem;
-}
-.cid-rYaQMl9p6W .card:hover {
-  opacity: 1;
-}
-@media (min-width: 992px) {
-  .cid-rYaQMl9p6W .card {
-    max-width: 14.28%;
-  }
-}
 .cid-rYaO5NhuZY {
   padding-top: 90px;
   padding-bottom: 60px;
